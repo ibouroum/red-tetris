@@ -4,7 +4,7 @@ import { connect } from 'react-redux'
 
 const App = ({message}) => {
   return (
-    <span>{message}</span>
+    <span>{'message'}</span>
   )
 }
 
