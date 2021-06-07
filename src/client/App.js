@@ -6,7 +6,6 @@ const App = () => (
   
   <div className="App">
     <Tetris />
-    <p>sdz</p>
   </div>
 );
 
